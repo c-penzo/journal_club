@@ -27,11 +27,14 @@ Discussion sur l'article: *Graph Attention Networks* <br />
 
 - **Dec 17, 2020:** <br />
 **Arthur Klipfel** <br />
-Discussion sur l'article: *Graph Deconvolutional Generation*,br />
+Discussion sur l'article: *Graph Deconvolutional Generation*<br />
 [https://arxiv.org/pdf/2002.07087.pdf)](https://arxiv.org/pdf/2002.07087.pdf))
+[slides here]<br />
 **Jean-Baptiste Gouray** <br />
 Discussion sur l'article: *Relational inductive biases, deep learning, and graph networks* <br />
 [https://arxiv.org/pdf/1806.01261.pdf](https://arxiv.org/pdf/1806.01261.pdf),br />
+[slides here]<br />
+
 
 
 
