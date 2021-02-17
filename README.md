@@ -17,7 +17,7 @@ Calibrer un réseau de neurones revient à faire en sorte que le score sigmoide/
 
 - **Jan 21st, 2020: Olivier Peltre** <br />
 Problème de prédiction du passage de la barrière hémato encéphalique pour des molécules organiques. Le manque de données oblige à s'orienter vers des méthodes de few-shot learning comme les prototypical networks, intéressants pour leur simplicité. <br />
-[https://arxiv.org/abs/1703.05175](https://arxiv.org/abs/1703.05175)
+[https://arxiv.org/abs/1703.05175](https://arxiv.org/abs/1703.05175)<br />
 [slides here]<br />
 
 
