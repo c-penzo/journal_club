@@ -15,3 +15,9 @@ Ensemble d'articles:<br />
 Calibrer un réseau de neurones revient à faire en sorte que le score sigmoide/softmax en sortie soit le plus proche possible d'une "vraie probabilité", pour pouvoir avoir confiance dans ses prédictions. Je vais surtout me baser sur l'article [https://arxiv.org/abs/1706.04599](https://arxiv.org/abs/1706.04599) et après je vais montrer comment mettre en place ça en Python.<br />
 [slides here]<br />
 
+- **Jan 21st, 2020: Olivier Peltre** <br />
+Problème de prédiction du passage de la barrière hémato encéphalique pour des molécules organiques. Le manque de données oblige à s'orienter vers des méthodes de few-shot learning comme les prototypical networks, intéressants pour leur simplicité. <br />
+[https://arxiv.org/abs/1703.05175](https://arxiv.org/abs/1703.05175)
+[slides here]<br />
+
+
