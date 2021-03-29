@@ -1,8 +1,19 @@
 # Journal Club 
 ## Laboratoire de Mathématiques de Lens
 
+
+- **Avr 8, 2021:**<br />
+**Yao Feng (Max Planck Institute for Intelligent Systems)**<br />
+*face3D:* face reconstruction and 3D morphable models.<br />
+[slides here]<br />
+
 - **Mar 18, 2021:**<br />
 *discussion:* discussion ouverte concernant l'utilisation du matériel pour l'enregistrement des données utilisées pour la photoplethysmographie à distance, une technique qui détecte les variations du volume sanguin en utilisant un enregistrement vidéo d'une personne. Pour ce faire, nous utiliserons une caméra et un oxymètre que nous synchroniserons pendant la capture des données. Un des points de la conversation serait de comprendre comment synchroniser le vidéo et l'oxymètre. <br />
+
+- **Mar 12, 2021:**<br />
+**Arthur Klipfel**<br />
+Exposé sur l’avancement de mon projet côté programmation. Programmation orientée objet, test unitaire, packages python et documentation.<br />
+[slides here]<br />
 
 - **Feb 12, 2021:**<br />
 **Arthur Klipfel**<br />
