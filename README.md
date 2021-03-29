@@ -93,7 +93,7 @@ Article *Within-person variability promotes learning of internal facial features
 - **Oct 29, 2020:** <br />
 **Yaël Fregier** <br />
 Article sur *G-Shnet*.<br />
-[slides here]<br />
+[slides here](yael_2020_10_29.pdf)<br />
 
 - **Oct 22, 2020:** <br />
 **Camilla Penzo** <br />
