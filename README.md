@@ -35,8 +35,39 @@ Discussion sur l'article: *Relational inductive biases, deep learning, and graph
 [https://arxiv.org/pdf/1806.01261.pdf](https://arxiv.org/pdf/1806.01261.pdf)<br />
 [slides here]<br />
 
+- **Dec 10, 2020:** <br />
+**Jean-Baptiste Gouray** <br />
+Frechet Inception Distance (FDI) et du Inception Score, deux métriques les plus utilisées pour évaluer des GANs <br />
+[slides here]<br />
 
+- **Dec 3, 2020:** <br />
+**Adlane Sayede** <br />
+tutoriel informel sur comment utiliser DeepChem<br />
+[https://deepchem.io/](https://deepchem.io/)<br />
 
+- **Nov 26, 2020:** <br />
+**Yaël Fregier** <br />
+Introduction à les transformers <br />
+[https://arxiv.org/pdf/1802.05751.pdf](https://arxiv.org/pdf/1802.05751.pdf)<br />
+[slides here]<br />
 
+- **Nov 20, 2020:** <br />
+**Olivier Peltre** <br />
+Les réseaux convolutionnels (GCN) [1, 2] sur un graphe G = (V, E) utilisent le laplacien L ou un polynôme de celui-ci pour générer des filtres locaux en chaque point, analogues à des ondelettes. En notant 1_i : V -> R la masse de Dirac sur le sommet i, et un polynôme P de degré k, l'ondelette f_i = P(L) . 1_i est supportée sur les voisins de i situés à une distance inférieure à k. Etant donné une fonction x : V -> R sur les sommets représentant l'état d'une couche, l'état y_i de la couche suivante est défini en applicant une fonction non-linéaire au produit scalaire (f_i, x). Les réseaux à passage de messages (MPNN) [3], sont définis par des fonctions de message M_ij(x_i, x_j) et des fonctions de mise à jour U_i(x_i, m_i). Pour tout sommet j, on calcule la somme m_j des messages M_ij(x_i, x_j) entrant au sommet j auquel on applique la fonction de mise à jour U_j(x_j, - ).   Comme affirmé dans [3], un grand nombre de méthodes différentes rentre dans le cadre des algorithmes à passage de messages. C'est en particulier le cas des réseaux convolutionnels de [2] qui se restreignent à un polynôme P(L) de degré 1 i.e. une fonction affine du laplacien. Par contre ça ne semble pas vrai en degré plus grand, comme le dit pourtant [3].<br />
+[1] [https://arxiv.org/abs/1312.6203.pdf](https://arxiv.org/abs/1312.6203.pdf)<br />
+[2] [https://arxiv.org/abs/1609.02907.pdf](https://arxiv.org/abs/1312.6203.pdf)<br />
+[3] [https://arxiv.org/pdf/1704.01212.pdf](https://arxiv.org/abs/1312.6203.pdf)<br />
+[slides here]<br />
 
-
+- **Nov 4, 2020:** <br />
+**Arthur Klipfel** <br />
+code de *SchNet*<br />
+[slides here]<br />
+**Jean-Baptiste Gouray** <br />
+Utilisation du autoencoder ALAE avec la technique du transfer learning pour GANs Mind2Mind <br />
+[https://arxiv.org/abs/2004.04467.pdf](https://arxiv.org/abs/2004.04467.pdf)<br />
+[https://arxiv.org/abs/1906.11613.pdf](https://arxiv.org/abs/1906.11613.pdf)<br />
+[slides here]<br />
+**Yaël Fregier**
+article *Within-person variability promotes learning of internal facial features and facilitates perceptual discrimination and memory*. Bien que ce travail soit dans le domaine de la psychologie, la problématique s’applique aussi à l’apprentissage profond. En particulier, ce paradigme pourrait peut-être permettre d'introduire une méthode de “drop out sémantique” afin de faire émerger les caractéristiques propres aux identités, stables par rapport à la variabilité des données. <br />
+[slides here]<br />
