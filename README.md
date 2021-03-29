@@ -27,7 +27,7 @@ Ensemble d'articles:<br />
 [slides here]<br />
 
 - **Feb 4, 2021**<br />
-**Mathieu Klimczak**<br />
+**Mathieu Klimczak (Centre d'Innovation des Technologies sans Contact)**<br />
 Calibrer un réseau de neurones revient à faire en sorte que le score sigmoide/softmax en sortie soit le plus proche possible d'une "vraie probabilité", pour pouvoir avoir confiance dans ses prédictions. Je vais surtout me baser sur l'article [https://arxiv.org/abs/1706.04599.pdf](https://arxiv.org/abs/1706.04599.pdf) et après je vais montrer comment mettre en place ça en Python.<br />
 [slides here]<br />
 
