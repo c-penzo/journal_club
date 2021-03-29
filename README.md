@@ -97,5 +97,5 @@ Article sur *G-Shnet*.<br />
 
 - **Oct 22, 2020:** <br />
 **Camilla Penzo** <br />
-rPPG avec un LSTM: la remote-photoplethysmographie (rPPG) est une technique qui détecte les variations du volume sanguin en utilisant un enregistrement vidéo d'une personne. On utilise une Long Short-Term Memory (LSTM) network pour apprendre et predire les series temporales de l'intensité des pixels dans la vidéo. <br />
+rPPG avec une LSTM: la remote-photoplethysmographie (rPPG) est une technique qui détecte les variations du volume sanguin en utilisant un enregistrement vidéo d'une personne. On utilise une Long Short-Term Memory (LSTM) network pour apprendre et predire les series temporales de l'intensité des pixels dans la vidéo. <br />
 [slides here](camilla_2020_10_22.pdf)<br />
