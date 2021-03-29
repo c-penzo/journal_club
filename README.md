@@ -1,7 +1,10 @@
 # Journal Club 
 ## Laboratoire de Mathématiques de Lens
 
-- **Feb 12th, 2021:**<br />
+- **Mar 18, 2021:**<br />
+*discussion:* discussion ouverte concernant l'utilisation du matériel pour l'enregistrement des données utilisées pour la photoplethysmographie à distance, une technique qui détecte les variations du volume sanguin en utilisant un enregistrement vidéo d'une personne. Pour ce faire, nous utiliserons une caméra et un oxymètre que nous synchroniserons pendant la capture des données. Un des points de la conversation serait de comprendre comment synchroniser le vidéo et l'oxymètre. <br />
+
+- **Feb 12, 2021:**<br />
 **Arthur Klipfel**<br />
 Présentation du codage absolut et relatif des positions dans les transformers en NLP. Pistes de réflexions sur le codage des positions pour la chimie (passage du codage de position discret du NLP à un codage dans l'espace continue dans lequel se trouve les atomes qui constituent les molécules et crystaux). Pour finir par des pistes pour utiliser les mécanismes d'attentions et le passage de message dans des complexes simpliciaux.<br />
 Ensemble d'articles:<br />
@@ -12,12 +15,12 @@ Ensemble d'articles:<br />
 [https://arxiv.org/pdf/1712.06113.pdf](https://arxiv.org/pdf/1712.06113.pdf)<br />
 [slides here]<br />
 
-- **Feb 4th, 2021**<br />
+- **Feb 4, 2021**<br />
 **Mathieu Klimczak**<br />
 Calibrer un réseau de neurones revient à faire en sorte que le score sigmoide/softmax en sortie soit le plus proche possible d'une "vraie probabilité", pour pouvoir avoir confiance dans ses prédictions. Je vais surtout me baser sur l'article [https://arxiv.org/abs/1706.04599.pdf](https://arxiv.org/abs/1706.04599.pdf) et après je vais montrer comment mettre en place ça en Python.<br />
 [slides here]<br />
 
-- **Jan 21st, 2021**<br />
+- **Jan 21, 2021**<br />
 **Olivier Peltre** <br />
 Problème de prédiction du passage de la barrière hémato encéphalique pour des molécules organiques. Le manque de données oblige à s'orienter vers des méthodes de few-shot learning comme les prototypical networks, intéressants pour leur simplicité. <br />
 [https://arxiv.org/abs/1703.05175.pdf](https://arxiv.org/abs/1703.05175.pdf)<br />
