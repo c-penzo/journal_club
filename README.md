@@ -79,7 +79,7 @@ Les réseaux convolutionnels (GCN) [1, 2] sur un graphe G = (V, E) utilisent le 
 
 - **Nov 4, 2020:** <br />
 **Arthur Klipfel** <br />
-code de *SchNet*<br />
+Code de *SchNet*<br />
 [slides here]<br />
 **Jean-Baptiste Gouray** <br />
 Utilisation du autoencoder ALAE avec la technique du transfer learning pour GANs Mind2Mind <br />
@@ -87,10 +87,15 @@ Utilisation du autoencoder ALAE avec la technique du transfer learning pour GANs
 [https://arxiv.org/abs/1906.11613.pdf](https://arxiv.org/abs/1906.11613.pdf)<br />
 [slides here]<br />
 **Yaël Fregier**<br />
-article *Within-person variability promotes learning of internal facial features and facilitates perceptual discrimination and memory*. Bien que ce travail soit dans le domaine de la psychologie, la problématique s’applique aussi à l’apprentissage profond. En particulier, ce paradigme pourrait peut-être permettre d'introduire une méthode de “drop out sémantique” afin de faire émerger les caractéristiques propres aux identités, stables par rapport à la variabilité des données. <br />
+Article *Within-person variability promotes learning of internal facial features and facilitates perceptual discrimination and memory*. Bien que ce travail soit dans le domaine de la psychologie, la problématique s’applique aussi à l’apprentissage profond. En particulier, ce paradigme pourrait peut-être permettre d'introduire une méthode de “drop out sémantique” afin de faire émerger les caractéristiques propres aux identités, stables par rapport à la variabilité des données. <br />
 [slides here]<br />
 
 - **Oct 29, 2020:** <br />
+**Yaël Fregier** <br />
+Article sur *G-Shnet*.<br />
+[slides here]<br />
+
+- **Oct 22, 2020:** <br />
 **Camilla Penzo** <br />
 rPPG avec un LSTM: la remote-photoplethysmographie (rPPG) est une technique qui détecte les variations du volume sanguin en utilisant un enregistrement vidéo d'une personne. On utilise une Long Short-Term Memory (LSTM) network pour apprendre et predire les series temporales de l'intensité des pixels dans la vidéo. <br />
-[slides here]<br />
+[slides here](camilla_2020_10_22.pdf)<br />
