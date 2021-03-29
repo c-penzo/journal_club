@@ -8,7 +8,7 @@
 [slides here]<br />
 
 - **Mar 18, 2021:**<br />
-*discussion:* discussion ouverte concernant l'utilisation du matériel pour l'enregistrement des données utilisées pour la photoplethysmographie à distance, une technique qui détecte les variations du volume sanguin en utilisant un enregistrement vidéo d'une personne. Pour ce faire, nous utiliserons une caméra et un oxymètre que nous synchroniserons pendant la capture des données. Un des points de la conversation serait de comprendre comment synchroniser le vidéo et l'oxymètre. <br />
+Discussion ouverte concernant l'utilisation du matériel pour l'enregistrement des données utilisées pour la photoplethysmographie à distance, une technique qui détecte les variations du volume sanguin en utilisant un enregistrement vidéo d'une personne. Pour ce faire, nous utiliserons une caméra et un oxymètre que nous synchroniserons pendant la capture des données. Un des points de la conversation serait de comprendre comment synchroniser le vidéo et l'oxymètre. <br />
 
 - **Mar 12, 2021:**<br />
 **Arthur Klipfel**<br />
