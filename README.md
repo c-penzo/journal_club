@@ -1,6 +1,10 @@
 # Journal Club 
 ## Laboratoire de Mathématiques de Lens
 
+- **Avr 23, 2021:**<br />
+**Arthur Klipfel**<br />
+Démo de mon framework de benchmark de modèle pour la chimie.<br />
+<br />
 
 - **Avr 8, 2021:**<br />
 **Yao Feng (Max Planck Institute for Intelligent Systems)**<br />
