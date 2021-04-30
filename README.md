@@ -1,10 +1,13 @@
 # Journal Club 
 ## Laboratoire de Mathématiques de Lens
 
+- **Avr 30, 2021:**<br />
+**Matthieu Goliot, Naim Es-Sebbani et Germain Poloudenny**<br />
+Obtenir la fréquence cardiaque depuis une vidéo (photopléthismographie) est un problème qui a connu un regain d’intérêt ces dernières années grâce aux possibilités offertes par l’apprentissage profond. Un des gros obstacles que rencontre cependant cette approche prometteuse est le manque de données. En effet, l’information cardiaque est une donnée relative à la santé et ne peut être partagé à la légère. C'est pourquoi nous cherchons à utiliser un modèle morphable du visage (3DMM) couplé à un moteur de rendu différentiel dans le but d’extraire la texture du visage (qui contient l’information cardiaque) et l’appliquer  ensuite à un visage dont la forme a été modifiée. L’activité cardiaque de la personne sera donc encore présente, bien que l’identité de la personne aura été modifiée. Ainsi nous nous affranchirons des contraintes de type RGPD, et aurons aussi accès à des méthodes d’augmentation de données (changement de pose, d’expression, d’éclairage, etc…).<br />
+
 - **Avr 23, 2021:**<br />
 **Arthur Klipfel**<br />
 Démo de mon framework de benchmark de modèle pour la chimie.<br />
-<br />
 
 - **Avr 8, 2021:**<br />
 **Yao Feng (Max Planck Institute for Intelligent Systems)**<br />
