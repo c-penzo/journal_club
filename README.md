@@ -15,6 +15,12 @@ Démo de mon framework de benchmark de modèle pour la chimie.<br />
 *face3D:* face reconstruction and 3D morphable models.<br />
 [slides here]<br />
 
+- **Avr 2, 2021:**<br />
+**Jean_baptiste Gouray**<br />
+Un modèle ProGAN pour des modèles 3D de visages?<br />
+Les modèles génératifs se basant sur ProGAN ont montré leur efficacité dans la génération d'images. Cet exposé propose une piste de réflexion sur comment porter cette technique, principalement développée pour des images 2d, à des modèles 3D de visages.<br />
+[slides here](jb_2021_04_02.pdf)<br />
+
 - **Mar 18, 2021:**<br />
 Discussion ouverte concernant l'utilisation du matériel pour l'enregistrement des données utilisées pour la photoplethysmographie à distance, une technique qui détecte les variations du volume sanguin en utilisant un enregistrement vidéo d'une personne. Pour ce faire, nous utiliserons une caméra et un oxymètre que nous synchroniserons pendant la capture des données. Un des points de la conversation serait de comprendre comment synchroniser le vidéo et l'oxymètre. <br />
 
